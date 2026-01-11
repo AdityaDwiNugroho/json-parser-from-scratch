@@ -26,7 +26,12 @@ function parseValue() {
 
 ## Quick Start
 
-No `npm install` required! This is pure Node.js.
+No `npm install` required if running localized! This is pure Node.js.
+
+But if you want to use it as a library:
+```bash
+npm install @yurtzy/json-parser-from-scratch
+```
 
 ```bash
 # Run the demo
