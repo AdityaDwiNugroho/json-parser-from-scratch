@@ -1,0 +1,30 @@
+{
+  "name": "json-parser-from-scratch",
+  "version": "1.0.0",
+  "description": "Zero-dependency JSON parser written from scratch in JavaScript (Lexer + Recursive Descent Parser).",
+  "main": "index.js",
+  "types": "src/tokens.js",
+  "author": "AdityaDwiNugroho",
+  "license": "MIT",
+  "keywords": [
+    "json",
+    "parser",
+    "lexer",
+    "compiler",
+    "recursive-descent",
+    "educational",
+    "zero-dependency"
+  ],
+  "homepage": "https://github.com/AdityaDwiNugroho/json-parser-from-scratch#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaDwiNugroho/json-parser-from-scratch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdityaDwiNugroho/json-parser-from-scratch/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "commonjs"
+}
