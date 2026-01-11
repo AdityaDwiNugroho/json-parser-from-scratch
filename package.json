@@ -1,5 +1,5 @@
 {
-  "name": "json-parser-from-scratch",
+  "name": "@yurtzy/json-parser-from-scratch",
   "version": "1.0.0",
   "description": "Zero-dependency JSON parser written from scratch in JavaScript (Lexer + Recursive Descent Parser).",
   "main": "index.js",
